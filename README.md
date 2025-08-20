@@ -44,7 +44,7 @@
   [![Readme Card](https://github-readme-stats-beta-five-69.vercel.app/api/pin/?username=ventopreto&repo=dotfiles&cache_seconds=3001)](https://github.com/ventopreto/dotfiles)
   [![Readme Card](https://github-readme-stats-beta-five-69.vercel.app/api/pin/?username=ventopreto&repo=Desafio-API&cache_seconds=3001)](https://github.com/ventopreto/Desafio-API)
   [![Readme Card](https://github-readme-stats-beta-five-69.vercel.app/api/pin/?username=ventopreto&repo=paynow&cache_seconds=3001)](https://github.com/ventopreto/paynow)
-  [![Readme Card](https://github-readme-stats-beta-five-69.vercel.app/api/pin/?username=ventopreto&repo=resgatador-jogos-prime-gaming&cache_seconds=3001)]((https://github.com/ventopreto/resgatador-jogos-prime-gaming))
+  [![Readme Card](https://github-readme-stats-beta-five-69.vercel.app/api/pin/?username=ventopreto&repo=resgatador-jogos-prime-gaming&cache_seconds=3002)](https://github.com/ventopreto/resgatador-jogos-prime-gaming)
   [![Readme Card](https://github-readme-stats-beta-five-69.vercel.app/api/pin/?username=ventopreto&repo=DiamondChallenge&cache_seconds=3001)](https://github.com/ventopreto/DiamondChallenge)
 
 ---
