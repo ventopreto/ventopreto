@@ -33,20 +33,16 @@
 ![Zellij](https://img.shields.io/badge/Zellij-F0A202?style=for-the-badge&logoColor=black)
 ![Zoxide](https://img.shields.io/badge/Zoxide-E66100?style=for-the-badge&logoColor=white)
 
-
-<div align="center">
   <img height="200" src="https://github-readme-stats-beta-five-69.vercel.app/api/top-langs?username=ventopreto&layout=compact&langs_count=8&card_width=401" />
-</div>
+
 
 
 ---
-  [![Readme Card](https://github-readme-stats-beta-five-69.vercel.app/api/pin/?username=ventopreto&repo=rinhabackend2025&cache_seconds=3001)](https://github.com/ventopreto/rinhabackend2025)
+  [![Readme Card](https://github-readme-stats-beta-five-69.vercel.app/api/pin/?username=ventopreto&repo=rinhabackend2025&cache_seconds=3002)](https://github.com/ventopreto/RInha-2025-Roda)
   [![Readme Card](https://github-readme-stats-beta-five-69.vercel.app/api/pin/?username=ventopreto&repo=dotfiles&cache_seconds=3001)](https://github.com/ventopreto/dotfiles)
   [![Readme Card](https://github-readme-stats-beta-five-69.vercel.app/api/pin/?username=ventopreto&repo=Desafio-API&cache_seconds=3001)](https://github.com/ventopreto/Desafio-API)
-  [![Readme Card](https://github-readme-stats-beta-five-69.vercel.app/api/pin/?username=ventopreto&repo=paynow&cache_seconds=3001)](https://github.com/ventopreto/paynow)
   [![Readme Card](https://github-readme-stats-beta-five-69.vercel.app/api/pin/?username=ventopreto&repo=resgatador-jogos-prime-gaming&cache_seconds=3002)](https://github.com/ventopreto/resgatador-jogos-prime-gaming)
   [![Readme Card](https://github-readme-stats-beta-five-69.vercel.app/api/pin/?username=ventopreto&repo=DiamondChallenge&cache_seconds=3001)](https://github.com/ventopreto/DiamondChallenge)
-
 ---
 
 ### Contato
