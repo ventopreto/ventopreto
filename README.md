@@ -4,7 +4,7 @@
 
 ✨ **Criando bugs (e soluções) desde:** 2019
 <br>
-📚 **Estou aprendendo atualmente:** Ruby (Async, Paralelismo e Concorrência) e Neovim (Nvim).
+📚 **Estou aprendendo atualmente:** Ruby Async, Paralelismo e Concorrência.
 <br>
 🎯 **Metas para o futuro:** Contribuir para um projeto open-source que eu admiro.
 <br>
